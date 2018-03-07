@@ -1,7 +1,7 @@
 /**
- * negtativeTest
+ * negativeTest
  */
-public class negtativeTest {
+public class negativeTest {
 
     public static void main(String[] args) {
         int sum=0;
